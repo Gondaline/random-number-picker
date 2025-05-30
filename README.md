@@ -48,7 +48,7 @@ Um projeto interativo, moderno e responsivo desenvolvido com **HTML**, **CSS** e
 
 ## 🌐 Acesso online
 
-> https://random-number-picker-five.vercel.app/
+> https://random-number-picker-delta.vercel.app/
 
 ---
 
